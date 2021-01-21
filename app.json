@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "COVID-19 India Tracker",
+    "slug": "COVID-19-tracker-v2",
+    "sdkVersion": "37.0.0",
+    "version": "1.0.0",
+    "icon": "./icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.anishrajan.covid19livetrackerv1"
+    }
+  }
+}
